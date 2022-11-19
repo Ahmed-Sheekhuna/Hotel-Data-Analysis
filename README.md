@@ -1,5 +1,5 @@
 # Hotel-Data-Analysis
-Hotel booking data analysis using sql and visualisation using powerbi
+Hotel booking data analysis using sql and visualisation using powerbi (data source: https://absentdata.com/hotel_revenue_historical_full/#google_vignette)
 Stake holder questions
 
 1. "Is our hotel revenue growing by year?" (segment revenue by hotel type)
