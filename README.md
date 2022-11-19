@@ -26,4 +26,4 @@ Steps:
 2. Create a database within sql to unify all the data from each year into one unified table
 3. Write queries to analyze revenue growth
 4. Visualise data and summarise using Power BI
-![alt text](https://github.com/AhmedHamadiSheekhuna/Hotel-Data-Analysis/blob/main/Powerbi-HDA.png.png)
+![plot](https://github.com/AhmedHamadiSheekhuna/Hotel-Data-Analysis/blob/main/Powerbi-HDA.png.png)
