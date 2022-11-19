@@ -27,3 +27,5 @@ Steps:
 3. Write queries to analyze revenue growth
 4. Visualise data and summarise using Power BI
 
+![Screenshot](powerbi-HDA.png)
+
