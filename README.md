@@ -30,5 +30,8 @@ We want to understand if there is a trend in guests with personal cars
 4. Visualise data and summarise using Power BI
 
 
+![Powerbi-Visual](https://user-images.githubusercontent.com/33176824/204034085-e9d7ee7d-4803-495e-91f6-73c649416c37.png)
+
+
 
 (data source: https://absentdata.com/hotel_revenue_historical_full/#google_vignette)
